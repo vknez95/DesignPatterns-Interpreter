@@ -1,0 +1,10 @@
+/Users/vknez/Documents/Programming/DesignPatterns/Interpreter/Barcode/bin/Debug/netcoreapp1.1/Barcode.deps.json
+/Users/vknez/Documents/Programming/DesignPatterns/Interpreter/Barcode/bin/Debug/netcoreapp1.1/Barcode.runtimeconfig.json
+/Users/vknez/Documents/Programming/DesignPatterns/Interpreter/Barcode/bin/Debug/netcoreapp1.1/Barcode.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/DesignPatterns/Interpreter/Barcode/bin/Debug/netcoreapp1.1/Barcode.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Interpreter/Barcode/bin/Debug/netcoreapp1.1/Barcode.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Interpreter/Barcode/obj/Debug/netcoreapp1.1/Barcode.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/DesignPatterns/Interpreter/Barcode/obj/Debug/netcoreapp1.1/Barcode.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Interpreter/Barcode/obj/Debug/netcoreapp1.1/Barcode.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Interpreter/Barcode/bin/Debug/netcoreapp1.1/Utility.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Interpreter/Barcode/bin/Debug/netcoreapp1.1/Utility.pdb
